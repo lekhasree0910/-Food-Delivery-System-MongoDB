@@ -56,31 +56,52 @@ Restaurant Rating and Review System
 Report Generation using Aggregation Queries
 
 **MongoDB Operations Used**
-Insert Documents
-Find Queries
-Update Operations
-Delete Operations
-Sorting
-Filtering
-Aggregation Framework
-Group By Operations
-Count Operations
-Sum, Average, Maximum, and Minimum Functions
-Lookup Operations
+
+1.Insert Documents
+
+2.Find Queries
+
+3.Update Operations
+
+4.Delete Operations
+
+5.Sorting
+
+6.Filtering
+
+7.Aggregation Framework
+
+8.Group By Operations
+
+9.Count Operations
+
+10.Sum, Average, Maximum, and Minimum Functions
+
+11.Lookup Operations
 
 **Advanced Analytics**
-Restaurant generating highest revenue
-Customer with maximum orders
-Most popular payment method
-City with maximum customers
-Top-rated restaurants
-Percentage of delivered orders
-Average order amount city-wise
+
+*Restaurant generating highest revenue
+
+*Customer with maximum orders
+
+*Most popular payment method
+
+*City with maximum customers
+
+*Top-rated restaurants
+
+*Percentage of delivered orders
+
+*Average order amount city-wise
 
 **Technologies Used**
-MongoDB
-MongoDB Compass / Mongo Shell
-GitHub
+>MongoDB
+
+>MongoDB Compass / Mongo Shell
+
+>GitHub
 
 **Conclusion**
+
 This project demonstrates the implementation of a real-world Online Food Delivery System using MongoDB NoSQL database concepts. It provides practical experience with document-oriented databases, CRUD operations, aggregation pipelines, filtering, sorting, grouping, and analytical reporting.
